@@ -4,6 +4,11 @@
 
 This project documents my journey of building a handwired wireless keyboard using the nRF Pro Micro a cheaper alternative to the nice!nano and the ZMK firmware.
 
+### Bill of Materil
+What is needed to build this keyboard
+
+### Pinout of nRF Pro Micro
+![pinout](/images/pinout_and_wireing.svg)
 
 
 ## ZMK firmware
